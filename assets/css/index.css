@@ -1,0 +1,54 @@
+body{
+    background-color:#463A36;
+    
+}
+
+
+.hijo1{
+    max-width: 55%;
+     /* Resize the background image to cover the entire container */
+}
+
+.hijo2{
+    color: white;
+    font-family: Faustina;
+    align-items: center;
+    text-align: center;
+    max-width: 45%;
+    font-style: normal;
+}
+
+input{
+    border-radius: 8px;
+}
+
+.correo{
+    width: 300px;
+    padding: 10px;
+    background-color: #DCDCDC;
+    font-size: 18px;
+    
+}
+
+.pass{
+    padding: 10px;
+    background-color: #DCDCDC;
+    width: 300px;
+    font-size: 18px;
+
+}
+
+.login{
+    width: 200px;  
+    background-color: #3E88BD; 
+    
+}
+
+.forgot{
+    margin-left: 100px;
+
+}
+
+.cuenta{
+    margin-right: 70px;
+}
